@@ -1,20 +1,7 @@
-プログラム設計の方法 第2版
-	序文
-	プロローグ   プログラムの作り方
-I 固定サイズのデータ
-	インテルメッツォ1：初級者向け言語
-II 任意の大きさのデータ
-	インテルメッツォ2：引用、引用解除
-III 抽象化
-	インターメッツォ3：スコープと抽象化
-IV 相互作用するデータ
-	インターメッツォ4：数の性質
-V Generative Recursion (再帰的生成)
-	インターメッツォ5：計算のコスト
-VI アキュムレータ
-	エピローグ   次のステップへ
+﻿How to Design Programs, Second Edition.
+Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi 著.
 
-===========================================
+---
 
 IV 絡み合うデータ
 
